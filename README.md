@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on international student developers
-- 📫 ammaramirani.bscsf23@iba-suk.edu.pk
+- 📫 ammaramirani135@gmail.com
 
 <!---
 Summaiya35/Summaiya35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
