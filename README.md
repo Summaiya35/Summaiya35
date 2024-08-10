@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ammara Mirani
+- 👋 Hi, I’m Ammarah Mirani
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on international student developers
