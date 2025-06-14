@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ammarah Mirani
 - 👀 My field of interest encompasses AI, Data Science and ML.
 - 🌱 I’m currently a second year CS student
- 💞️ I’m looking to collaborate on international student developers
+ 💞
 - 📫 ammaramirani135@gmail.com
 
 <!---
