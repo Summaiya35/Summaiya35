@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ammarah Mirani
 - 👀 My field of interest encompasses Cloud Computing, Linux and AI.
-- 🌱 I’m currently a second year CS student
+- 🌱 I’m currently a third year CS student.
  💞
 - 📫 ammaramirani135@gmail.com
 
