@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ammarah Mirani
-- 👀 My field of interest encompasses AI, Data Science and ML.
+- 👀 My field of interest encompasses Cloud Computing, Linux and AI.
 - 🌱 I’m currently a second year CS student
  💞
 - 📫 ammaramirani135@gmail.com
